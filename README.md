@@ -1,1 +1,1 @@
-# Live-ECG-Viewer
+# Live ECG Monitor
